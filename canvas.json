@@ -1,0 +1,68 @@
+{
+ "v": 3,
+ "attachments": {},
+ "boards": {
+  "Main.dc.html": {
+   "expand": "fill",
+   "h": 4000,
+   "title": "صفحه اصلی",
+   "w": 1360,
+   "x": 0,
+   "y": 0,
+   "is_interactive": true
+  },
+  "Property.dc.html": {
+   "expand": "fill",
+   "h": 3000,
+   "is_interactive": true,
+   "title": "ملک‌ها — ویلاباغ رو به جنگل",
+   "w": 1360,
+   "x": 1480,
+   "y": 0
+  },
+  "Property2.dc.html": {
+   "expand": "fill",
+   "h": 3000,
+   "is_interactive": true,
+   "title": "ملک‌ها — ویلای مدرن آماده تحویل",
+   "w": 1360,
+   "x": 2960,
+   "y": 0
+  },
+  "Property3.dc.html": {
+   "expand": "fill",
+   "h": 3000,
+   "is_interactive": true,
+   "title": "ملک‌ها — آپارتمان مبله در مرکز شهر",
+   "w": 1360,
+   "x": 4440,
+   "y": 0
+  }
+ },
+ "createdOnFiles": {
+  "at": "2026-10-15T09:00:00Z",
+  "v": 1
+ },
+ "designSystems": [],
+ "launch": {
+  "view": "focused",
+  "file": "Main.dc.html"
+ },
+ "notes": {
+  "shape-kn5f33": {
+   "h": 120,
+   "kind": "rect",
+   "w": 120,
+   "x": 220,
+   "y": 778
+  }
+ },
+ "order": [
+  "Main.dc.html",
+  "Property.dc.html",
+  "Property2.dc.html",
+  "Property3.dc.html"
+ ],
+ "pages": [],
+ "title": "Parsboom_Realestate"
+}
